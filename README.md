@@ -1,5 +1,5 @@
 # 🎵 Music Store Analysis Using SQL
-![Spotify Logo](https://github.com/Mohamed-Arafaath/Netflix_Analysis_SQL/blob/main/Netflix_2015_logo.svg)
+![Spotify Logo](Dataset/Spotify_Logo.png)
 
 ## Overview
 This project demonstrates an end-to-end data analysis pipeline for a fictional music store. It involves cleaning raw datasets using Python, designing and populating a relational database, and conducting SQL-based analysis to answer key business questions. The analysis spans customer behavior, sales trends, and music preferences, enabling data-driven decision-making.
